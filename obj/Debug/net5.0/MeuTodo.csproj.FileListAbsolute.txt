@@ -40,6 +40,7 @@ C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\MeuTodo.AssemblyInfoInputs.c
 C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\MeuTodo.AssemblyInfo.cs
 C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\MeuTodo.csproj.CoreCompileInputs.cache
 C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\MeuTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\MeuTodo.sourcelink.json
 C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\MeuTodo.RazorTargetAssemblyInfo.cache
 C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\scopedcss\bundle\MeuTodo.styles.css
 C:\Users\Lucas Augusto C C\MeuTodo\obj\Debug\net5.0\staticwebassets\MeuTodo.StaticWebAssets.Manifest.cache
