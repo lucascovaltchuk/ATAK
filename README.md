@@ -9,7 +9,7 @@ Orientação de como compilar/executar e realizar as requisições dos métodos 
    - No menu principal, selecione "File" > "Open" e navegue até o diretório do seu projeto ou caso preferir copie a URL do repositório do GIT diretamente no editor de código da sua preferência.
 
 3. **Compilar e executar o projeto:**
-   - Abra o terminal, procure a pasta onde você armazenou o arquivo do repositório que foi baixado ou clonado, exemplo: cd ATAK, após isso você ja vai estar dentro da pasta, para executar basta digitar dotnet watch run. Após digitar no terminal o dotnet watch run ele irá compilar/executar o projeto e em seguida abrirá uma aba no seu navegador do localhost, a princípio a página do localhost não possui Front-end, dessa forma não vai apresentar nada no localhost mas o seu projeto já irá estar funcionando para realizar as requisições de GET, PUT, POST e DELETE no POSTMAN.
+   - Abra o terminal, procure a pasta onde você armazenou o arquivo do repositório que foi baixado ou clonado, exemplo: cd ATAK, após isso você ja vai estar dentro da pasta, para executar basta digitar dotnet watch run. Após digitar no terminal o dotnet watch run ele irá compilar/executar o projeto e em seguida abrirá uma aba no seu navegador do localhost, a princípio a página não vai apresentar nada no localhost mas o seu projeto já irá estar funcionando para realizar as requisições de GET, PUT, POST e DELETE no POSTMAN.
 
 # Usando Postman para realizar solicitações:
 
