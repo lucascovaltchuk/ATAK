@@ -55,9 +55,9 @@ Orientação de como compilar/executar e realizar as requisições dos métodos 
 
 **Informações adicionais:**
   - Os pacotes utilizados nesse projeto foram os seguintes abaixo:
-    --> Microsoft.EntityFrameworkCore.Sqlite;
-    -->	Microsoft.EntityFrameworkCore.Design;
-    -->	Microsoft.Data.Sqlite.Core.
+       - Microsoft.EntityFrameworkCore.Sqlite;
+       - Microsoft.EntityFrameworkCore.Design;
+       - Microsoft.Data.Sqlite.Core.
 
 
 
